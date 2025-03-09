@@ -11,9 +11,9 @@ OR
 
 - Download & Launch as Admin **[`batch-files\add-marvel-rivals-cpu-priority.bat`](https://github.com/dubbyOW/Marvel-Rivals-High-CPU-Priority/releases/download/Gaming/add-marvel-rivals-cpu-priority.bat)** - to add the priority key to the Windows Registry
 
-After a system restart the game will permanently run in High CPU Priority.
+After a system restart the game will permanently run with High CPU Priority.
 
 ## Remove Priority
 - Download & Launch as Admin **[`batch-files\remove-marvel-rivals-cpu-priority.bat`](https://github.com/dubbyOW/Marvel-Rivals-High-CPU-Priority/releases/download/Gaming/remove-marvel-rivals-cpu-priority.bat)** - to remove the priority key from the Windows Registry
 
-After a system restart the game will permanently run in a default CPU Priority.
+After a system restart the game will permanently run with a default CPU Priority.
